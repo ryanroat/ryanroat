@@ -2,7 +2,7 @@
 
 ## Need to chill for a few?
 
-# play my [pong game](https://rsrpong.netlify.app/)
+#### play my [pong game](https://rsrpong.netlify.app/)
 
 <!--
 **ryanroat/ryanroat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,6 +6,8 @@
 
 ## Come check out [my portfolio](https://ryanroat.net/):
 
+[![Ryan Roat portfolio](https://ryanroat.net/img/ryanroat.net01.png "Ryan Roat")](https://ryanroat.net/)
+
 <!--
 **ryanroat/ryanroat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
